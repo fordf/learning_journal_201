@@ -1,0 +1,3 @@
+# Learning Journal Code 201 - Day 5
+
+Today was a big day of learning the git branching and merging process. It was difficult to understand and remember at first but I got the hang of it eventually. In lab, we had some fun with functions, and had to be a little clever to use them in other more complex functions. Yesterday, we worked as pairs to improve each others' code and create functions that control the guessing game. We learned how to fork someone else's github repo and then do a pull request to get your changes incorporated into their project. Throughout, we've been introduced to more and more css properties.
