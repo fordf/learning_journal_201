@@ -1,3 +1,3 @@
-# LJ Code 201 - Day 1
+# Learning Journal Code 201 - Day 1
 
 Today we were introduced to the fundamentals of Git, Github, and Unix, good standard practices for coding, and prompting and alerting webpage visitors. This is the first step in learning how to make websites interactive. In lab, we intentionally used the bad practice of writing javascript within the html file. From now on we'll have to learn how to make separate files for the HTML, CSS, and JS and make them talk to each other. Paul and I did similar things for the lab project, probably going overboard and not exactly following the guidelines. I'm excited to start tackling challenging coding problems, but I'm still uneasy with Git.
